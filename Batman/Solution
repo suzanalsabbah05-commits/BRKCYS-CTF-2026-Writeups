@@ -1,0 +1,77 @@
+🔍 1. Initial Analysis
+
+The challenge describes a friend who sent a picture of an **“interesting, various, and unique” trip**.
+
+Press enter or click to view image in full size
+
+The attached image shows a **box in a semi-desert area**
+- The image appears normal and contains **no obvious metadata or clues**
+- No additional information is directly provided
+This suggests that the challenge relies on **hidden data or external investigation
+
+🌐 2. Information Gathering
+
+Based on the flag format:
+
+BRKCYS{…}
+
+We can infer that the challenge belongs to the **BRK-CYS (Breakers Cyber Security) CTF**.
+
+Searching for the author **Suzan Alsabbah** leads to:
+- Social media profiles
+- Association with **Zarqa University**
+- Member of the **Breakers team**
+
+🕵️ 3. Social Media Investigation
+
+The next step is to analyze the author’s social presence:
+
+- Checked **LinkedIn** and **Facebook**
+- No direct references to the trip or “Batman”
+
+At this point, we shift strategy 👇
+
+🧩 4. Image Analysis & Steganography
+
+Since many OSINT challenges hide data inside images
+
+The image was analyzed using **steganography tools**
+- Hidden text was discovered:
+
+(Jam Go)
+
+Download the Medium App
+🧠 5. Name Deduction
+
+From the extracted text:
+
+“Jam” → likely refers to **James**
+- “Go” → likely refers to **George**
+Press enter or click to view image in full size
+
+➡️ Resulting name:
+
+James George
+
+🔎 6. Deep Social Media Search
+
+Searching for **James George**:
+
+- Facebook → no useful results
+- Instagram → multiple personal accounts
+
+One account stood out:
+
+👉 **James.george92**
+
+Posted an image similar to the challenge
+- The image appears AI-generated
+- Shows a group in a semi-desert environment
+- The post contains relevant details
+Press enter or click to view image in full size
+
+📍 7. Key Findings
+
+From the suspicious Instagram post:
+
+Press enter or click to view image in full size
