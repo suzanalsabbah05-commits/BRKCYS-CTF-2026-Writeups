@@ -1,0 +1,18 @@
+ **Location:** Ajloun
+- **Date:** 2/9/2018
+- **Number of People:** 4
+___
+🧾 Findings Summary
+
+| Question | Answer |
+| — — — — | — — — — |
+| Name of the place | Ajloun |
+| Name of the person | James George |
+| Date of the trip | 2/9/2018 |
+| Number of people | 4 |
+___
+🏁 Final Flag
+
+Following the required format:
+
+BRKCYS{Ajloun,James George,2/9/2018,4}
