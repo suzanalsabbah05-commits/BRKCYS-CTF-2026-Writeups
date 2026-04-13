@@ -1,4 +1,4 @@
-🔍 1. Initial Analysis
+##🔍 1. Initial Analysis
 
 The challenge describes a friend who sent a picture of an **“interesting, various, and unique” trip**.
 
@@ -9,7 +9,7 @@ The attached image shows a **box in a semi-desert area**
 - No additional information is directly provided
 This suggests that the challenge relies on **hidden data or external investigation
 
-🌐 2. Information Gathering
+##🌐 2. Information Gathering
 
 Based on the flag format:
 
@@ -22,7 +22,7 @@ Searching for the author **Suzan Alsabbah** leads to:
 - Association with **Zarqa University**
 - Member of the **Breakers team**
 
-🕵️ 3. Social Media Investigation
+##🕵️ 3. Social Media Investigation
 
 The next step is to analyze the author’s social presence:
 
@@ -31,7 +31,7 @@ The next step is to analyze the author’s social presence:
 
 At this point, we shift strategy 👇
 
-🧩 4. Image Analysis & Steganography
+##🧩 4. Image Analysis & Steganography
 
 Since many OSINT challenges hide data inside images
 
@@ -41,7 +41,7 @@ The image was analyzed using **steganography tools**
 (Jam Go)
 
 Download the Medium App
-🧠 5. Name Deduction
+##🧠 5. Name Deduction
 
 From the extracted text:
 
@@ -49,11 +49,11 @@ From the extracted text:
 - “Go” → likely refers to **George**
 Press enter or click to view image in full size
 
-➡️ Resulting name:
+##➡️ Resulting name:
 
 James George
 
-🔎 6. Deep Social Media Search
+##🔎 6. Deep Social Media Search
 
 Searching for **James George**:
 
