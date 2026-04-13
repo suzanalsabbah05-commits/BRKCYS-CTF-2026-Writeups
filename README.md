@@ -12,6 +12,7 @@ Member at CyberSecurity Breakers Team
 
 The Batman challenge revolves around a seemingly simple image shared between friends, but hides multiple layers of information that require deep investigation.
 
+
 Participants are expected to:
 
 Analyze the provided image thoroughly
@@ -37,6 +38,8 @@ The number of people who participated in the trip
 All answers must be combined into a single flag using the format:
 
 BRKCYS{Ans1,Ans2,Ans3,Ans4}
+
+
 🧩 Challenge Breakdown
 
 The challenge is structured to simulate a real-world investigation scenario:
